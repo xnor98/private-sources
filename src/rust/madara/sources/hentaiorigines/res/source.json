@@ -1,0 +1,18 @@
+{
+	"info": {
+		"id": "fr hentai origines",
+		"lang": "fr",
+		"name": "Hentai Origines",
+		"version": 7,
+		"url": "https://hentai-origines.fr/",
+		"nsfw": 0
+	},
+	"listings": [
+		{
+			"name": "Tendance"
+		},
+		{
+			"name": "Populaire"
+		}
+	]
+}
