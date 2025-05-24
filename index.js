@@ -1,6 +1,6 @@
 [
   {
-    "id": "hentaiorigines",
+    "id": "fr.hentaiorigines",
     "name": "Hentai Origines",
     "file": "hentaiorigines.aix",
     "icon": "hentaiorigines.png",
